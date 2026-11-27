@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+users.json
+logs/*.log
+logs/analysis_report.json
+certs/*.key
+certs/*.csr
